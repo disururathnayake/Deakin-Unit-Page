@@ -41,3 +41,9 @@ tr:nth-child(odd) {
 tr:hover {
   background-color: #f1f1f1; /* Adds a hover effect for rows */
 }
+
+/* From incoming branch (not conflicting) */
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
